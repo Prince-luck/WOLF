@@ -13,22 +13,22 @@ const chalk = require('chalk')
 //owmner v card
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Nigeria, Lagos, Lagos" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V14' //ur bot name
-global.ownernumber = '916909137213' //ur owner number
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
-global.websitex = "https://youtu.be/RT0-AMBVwJg"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
+global.botname = 'WOLD Bot MD V1' //ur bot name
+global.ownernumber = '2347045305132' //ur owner number
+global.ownername = '🦄 WOLF' //ur owner name
+global.websitex = "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G"
+global.wagc = "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G"
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD14' //script link
+global.wm = "WOLF Bot Inc."
+global.botscript = 'https://github.com/Prince-luck' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.author = "🦄 Wolf\n\n+2347045305132"
+global.creator = "2347045305132@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["916909137213"] // Premium User
+global.premium = ["2347045305132"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -44,9 +44,9 @@ global.groupevent = false //show update messages in group chat
 //msg
 global.mess = {
 	limit: 'Your limit is up!',
-	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
+	nsfw: 'Hey Horny User Nsfw is disabled in this group, Please tell the admin to enable',
     done: 'Done✓',
-    error: 'Error!',
+    error: 'Error! Please try again later',
     success: 'Here you go!'
 }
 //thumbnail
