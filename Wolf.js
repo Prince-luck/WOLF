@@ -6,7 +6,7 @@
 //GitHub: @DGXeon
 //WhatsApp: +916909137213
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
-require('./lib/listmenu')
+require('./lib/listmenu.js')
 const {
 	downloadContentFromMessage,
     BufferJSON,
@@ -25,7 +25,7 @@ const fs = require('fs')
 const fsx = require('fs-extra')
 const path = require('path')
 const util = require('util')
-const { color } = require('./lib/color')
+const { color } = require('./lib/color.js')
 const chalk = require('chalk')
 const moment = require('moment-timezone')
 const cron = require('node-cron')
@@ -42,11 +42,11 @@ const googleTTS = require('google-tts-api')
 const jsobfus = require('javascript-obfuscator')
 const {translate} = require('@vitalets/google-translate-api')
 const { download } = require('aptoide-scraper');
-const scp2 = require('./lib/scraper2') 
+const scp2 = require('./lib/scraper2.js') 
 const { xvideosSearch, xvideosdl, xnxxdl, xnxxSearch} = require('./lib/scraper3.js')
 const pkg = require('imgur')
 const { ImgurClient } = pkg
-const uploadImage = require('./lib/uploadImage')
+const uploadImage = require('./lib/uploadImage.js')
 const client = new ImgurClient({ clientId: "a0113354926015a" })
 const {
     exec,
@@ -63,14 +63,14 @@ const {
     UploadFileUgu,
     webp2mp4File,
     floNime
-} = require('./lib/uploader')
+} = require('./lib/uploader.js')
 const {
     toAudio,
     toPTT,
     toVideo,
     ffmpeg,
     addExifAvatar
-} = require('./lib/converter')
+} = require('./lib/converter.js')
 const {
     smsg,
     getGroupAdmins,
@@ -100,8 +100,8 @@ const {
     buffergif,
     GIFBufferToVideoBuffer,
     totalcase
-} = require('./lib/myfunc')
-const { xeon_antispam } = require('./lib/antispam')
+} = require('./lib/myfunc.js')
+const { xeon_antispam } = require('./lib/antispam.js')
 //prem owner function
 const {
     addPremiumUser,
@@ -110,7 +110,7 @@ const {
     expiredPremiumCheck,
     checkPremiumUser,
     getAllPremiumUser,
-} = require('./lib/premiun')
+} = require('./lib/premiun.js')
 //store
 const { 
 addResponList, 
@@ -120,7 +120,7 @@ isAlreadyResponListGroup,
 sendResponList, 
 updateResponList, 
 getDataResponList 
-} = require('./lib/list')
+} = require('./lib/list.js')
 
 //cooldone
 let lastUsed = 0;
@@ -1197,7 +1197,7 @@ if (XeonTheCreator) return replygcxeon(bvl)
         
 //total features
 const xeonfeature = () =>{
-            var mytext = fs.readFileSync("./XeonCheems14.js").toString()
+            var mytext = fs.readFileSync("./Wolf.js").toString()
             var numUpper = (mytext.match(/case '/g) || []).length
             return numUpper
         }
@@ -3421,7 +3421,7 @@ case 'block': case 'ban': {
                 if (!XeonTheCreator) return XeonStickOwner()
                 try {
                    const getCase = (cases) => {
-                      return "case" + `'${cases}'` + fs.readFileSync("XeonCheems14.js").toString().split('case \'' + cases + '\'')[1].split("break")[0] + "break"
+                      return "case" + `'${cases}'` + fs.readFileSync("Wolf.js").toString().split('case \'' + cases + '\'')[1].split("break")[0] + "break"
                    }
                    replygcxeon(`${getCase(q)}`)
                 } catch {
@@ -6234,7 +6234,7 @@ break
                 let media = await XeonBotInc.downloadMediaMessage(qmsg)
                 let {
                     toPTT
-                } = require('./lib/converter')
+                } = require('./lib/converter.js')
                 let audio = await toPTT(media, 'mp4')
                 XeonBotInc.sendMessage(m.chat, {
                     audio: audio,
@@ -6437,7 +6437,7 @@ break
             case 'ttc':
             case 'ttt':
             case 'tictactoe': {
-                let TicTacToe = require("./lib/tictactoe")
+                let TicTacToe = require("./lib/tictactoe.js")
                 this.game = this.game ? this.game : {}
                 if (Object.values(this.game).find(room => room.id.startsWith('tictactoe') && [room.game.playerX, room.game.playerO].includes(m.sender))) return replygcxeon('You are still in the game')
                 let room = Object.values(this.game).find(room => room.state === 'WAITING' && (text ? room.name === text : true))
@@ -6543,7 +6543,7 @@ Type *surrender* to give up and admit defeat`
             break
             case 'mathquiz': case 'math': {
                 if (kuismath.hasOwnProperty(m.sender.split('@')[0])) replygcxeon(`There are still unfinished sessions!`)
-                let { genMath, modes } = require('./lib/math')
+                let { genMath, modes } = require('./lib/math.js')
                 if (!text) return replygcxeon(`Mode: ${Object.keys(modes).join(' | ')}\nUsage example: ${prefix}math medium`)
                 let result = await genMath(text.toLowerCase())
                 XeonBotInc.sendText(m.chat, `*What is the result of: ${result.soal.toLowerCase()}*?\n\nTime: ${(result.waktu / 1000).toFixed(2)} second`, m).then(() => {
@@ -7290,7 +7290,7 @@ ${meg.result}`)
 }
 break
 case 'style': case 'styletext': {
-		let { styletext } = require('./lib/scraper')
+		let { styletext } = require('./lib/scraper.js')
 		if (!text) return replygcxeon('Enter Query text!')
                 let anu = await styletext(text)
                 let teks = `Style Text From ${text}\n\n`
@@ -7405,7 +7405,7 @@ let yts = require("yt-search")
 break
             case 'play':  case 'song': {
 if (!text) return replygcxeon(`Example : ${prefix + command} anime whatsapp status`)
-const xeonplaymp3 = require('./lib/ytdl')
+const xeonplaymp3 = require('./lib/ytdl.js')
 let yts = require("youtube-yts")
         let search = await yts(text)
         let anup3k = search.videos[0]
@@ -7430,7 +7430,7 @@ await fs.unlinkSync(pl.path)
 }
 break
 case 'ytmp3': case 'ytaudio':
-let xeonaudp3 = require('./lib/ytdl')
+let xeonaudp3 = require('./lib/ytdl.js')
 if (args.length < 1 || !isUrl(text) || !xeonaudp3.isYTUrl(text)) return replygcxeon(`Where's the yt link?\nExample: ${prefix + command} https://youtube.com/shorts/YQf-vMjDuKY?feature=share`)
 let audio = await xeonaudp3.mp3(text)
 await XeonBotInc.sendMessage(m.chat,{
@@ -7450,7 +7450,7 @@ await XeonBotInc.sendMessage(m.chat,{
 await fs.unlinkSync(audio.path)
 break
 case 'ytmp4': case 'ytvideo': {
-const xeonvidoh = require('./lib/ytdl')
+const xeonvidoh = require('./lib/ytdl.js')
 if (args.length < 1 || !isUrl(text) || !xeonvidoh.isYTUrl(text)) replygcxeon(`Where is the link??\n\nExample : ${prefix + command} https://youtube.com/watch?v=PtFMh6Tccag%27 128kbps`)
 const vid=await xeonvidoh.mp4(text)
 const ytc=`
@@ -7491,7 +7491,7 @@ case 'tiktokvideo':
 case 'tiktokmp4': {
 if (!q) return replygcxeon( `Example : ${prefix + command} link`)
 if (!q.includes('tiktok')) return replygcxeon(`Link Invalid!!`)
-require('./lib/tiktok').Tiktok(q).then( data => {
+require('./lib/tiktok.js').Tiktok(q).then( data => {
 XeonBotInc.sendMessage(m.chat, { caption: `Here you go!`, video: { url: data.watermark }}, {quoted:m})
 })
 }
@@ -7500,7 +7500,7 @@ case 'tiktokmp3':
 case 'tiktokaudio':{
 if (!q) return replygcxeon( `Example : ${prefix + command} link`)
 if (!q.includes('tiktok')) return replygcxeon(`Link Invalid!!`)
-require('./lib/tiktok').Tiktok(q).then( data => {
+require('./lib/tiktok.js').Tiktok(q).then( data => {
 const xeontikmp3 = {url:data.audio}
 XeonBotInc.sendMessage(m.chat, { audio: xeontikmp3, mimetype: 'audio/mp4', ptt: true }, { quoted: m })
 })
@@ -7633,7 +7633,7 @@ break
 case 'ghstalk': case 'githubstalk':{
 if (!q) return replygcxeon(`Example ${prefix+command} DGXeon`)
 await XeonStickWait()
-let githubstalk = require('./lib/scraper')
+let githubstalk = require('./lib/scraper.js')
 aj = await githubstalk.githubstalk(`${q}`)
 XeonBotInc.sendMessage(m.chat, { image: { url : aj.profile_pic }, caption: 
 `*/ Github Stalker \\*
@@ -7662,7 +7662,7 @@ break
 case 'npmstalk':{
 if (!q) return replygcxeon(`Example ${prefix+command} xeonapi`)
 await XeonStickWait()
-let npmstalk = require('./lib/scraper')
+let npmstalk = require('./lib/scraper.js')
 eha = await npmstalk.npmstalk(q)
 replygcxeon(`*/ Npm Stalker \\*
 
@@ -7679,7 +7679,7 @@ break
 case 'ffstalk':{
 if (!q) return replygcxeon(`Example ${prefix+command} 946716486`)
 await XeonStickWait()
-let ffstalk = require('./lib/scraper')
+let ffstalk = require('./lib/scraper.js')
 eeh = await ffstalk.ffstalk(`${q}`)
 replygcxeon(`*/ Free Fire Stalker \\*
 
@@ -7690,7 +7690,7 @@ break
 case 'mlstalk': {
 if (!q) return replygcxeon(`Example ${prefix+command} 530793138|8129`)
 await XeonStickWait()
-let mlstalk = require('./lib/scraper')
+let mlstalk = require('./lib/scraper.js')
 let dat = await mlstalk.mlstalk(q.split("|")[0], q.split("|")[1])
 replygcxeon(`*/ Mobile Legend Stalker \\*
 
@@ -7789,14 +7789,14 @@ await XeonStickWait()
             break
             case 'ebinary': {
 if (!q) return replygcxeon(`Send/reply text with captions ${prefix + command}`)
-let { eBinary } = require('./lib/binary')
+let { eBinary } = require('./lib/binary.js')
 let eb = await eBinary(`${q}`)
 replygcxeon(eb)
 }
 break
 case 'dbinary': {
 if (!q) return replygcxeon(`Send/reply text with captions ${prefix + command}`)
-let { dBinary } = require('./lib/binary')
+let { dBinary } = require('./lib/binary.js')
 let db = await dBinary(`${q}`)
 replygcxeon(db)
 }
@@ -7954,7 +7954,7 @@ return await XeonBotInc.relayMessage(m.chat, msgs.message, {})
 break
 case 'ringtone': {
 		if (!text) return replygcxeon(`Example : ${prefix + command} black rover`)
-        let { ringtone }= require('./lib/scraper')
+        let { ringtone }= require('./lib/scraper.js')
 		let anutone2 = await ringtone(text)
 		let result = anutone2[Math.floor(Math.random() * anutone2.length)]
 		XeonBotInc.sendMessage(m.chat, { audio: { url: result.audio }, fileName: result.title+'.mp3', mimetype: 'audio/mpeg' }, { quoted: m })
@@ -9763,7 +9763,7 @@ break
 			if (!quoted) return replygcxeon(`Where is the picture?`)
 			if (!/image/.test(mime)) return replygcxeon(`Send/Reply Photos With Captions ${prefix + command}`)
 			await XeonStickWait()
-			const { remini } = require('./lib/remini')
+			const { remini } = require('./lib/remini.js')
 			let media = await quoted.download()
 			let proses = await remini(media, "enhance")
 			let msgs = generateWAMessageFromContent(m.chat, {
@@ -10380,7 +10380,7 @@ return await XeonBotInc.relayMessage(m.chat, msgs.message, {})
             case 'wallpaper': {
                 if (!text) return replygcxeon('Enter Query Title')
                 await XeonStickWait()
-		let { wallpaper } = require('./lib/scraper')
+		let { wallpaper } = require('./lib/scraper.js')
                 anuwallpep = await wallpaper(text)
                 result = anuwallpep[Math.floor(Math.random() * anuwallpep.length)]       
          let msgs = generateWAMessageFromContent(m.chat, {
@@ -10428,7 +10428,7 @@ return await XeonBotInc.relayMessage(m.chat, msgs.message, {})
             case 'wikimedia': {
                 if (!text) return replygcxeon('Enter Query Title')
                 await XeonStickWait()
-		let { wikimedia } = require('./lib/scraper')
+		let { wikimedia } = require('./lib/scraper.js')
                 let anumedia = await wikimedia(text)
                 result = anumedia[Math.floor(Math.random() * anumedia.length)]
                 let msgs = generateWAMessageFromContent(m.chat, {
@@ -16687,7 +16687,7 @@ case 'smeme': case 'stickermeme': case 'stickmeme': {
 
 if (!/webp/.test(mime) && /image/.test(mime)) {
 if (!text) return replygcxeon(`Usage: ${prefix + command} text1|text2`)
-let { TelegraPh } = require('./lib/uploader')
+let { TelegraPh } = require('./lib/uploader.js')
 
 atas = text.split('|')[0] ? text.split('|')[0] : '-'
 bawah = text.split('|')[1] ? text.split('|')[1] : '-'
@@ -27907,7 +27907,7 @@ XeonBotInc.copyNForward(m.chat, msgs[budy.toLowerCase()], true, {quoted: m})
     } catch (err) {
         console.log(util.format(err))
         let e = String(err)
-XeonBotInc.sendMessage("916909137213@s.whatsapp.net", { text: "Hello developer, there seems to be an error, please fix it " + util.format(e), 
+XeonBotInc.sendMessage("234705305132@s.whatsapp.net", { text: "Hello developer, there seems to be an error, please fix it " + util.format(e), 
 contextInfo:{
 forwardingScore: 9999999, 
 isForwarded: true
