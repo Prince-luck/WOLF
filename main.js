@@ -64,8 +64,8 @@ if (global.db) setInterval(async () => {
    if (global.db.data) await global.db.write()
 }, 30 * 1000)
 
-require('./Wolf.js')
-nocache('../Wolf.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
+require('./XeonCheems14.js')
+nocache('../XeonCheems14.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
 require('./main.js')
 nocache('../main.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
 
@@ -522,7 +522,7 @@ ppgroup = 'https://i.ibb.co/RBx5SQC/avatar-group-large-v2.png?q=60'
             if (!XeonBotInc.public && !mek.key.fromMe && chatUpdate.type === 'notify') return
             if (mek.key.id.startsWith('BAE5') && mek.key.id.length === 16) return
             const m = smsg(XeonBotInc, mek, store)
-            require("./Wolf")(XeonBotInc, m, chatUpdate, store)
+            require("./XeonCheems14")(XeonBotInc, m, chatUpdate, store)
         } catch (err) {
             console.log(err)
         }
