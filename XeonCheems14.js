@@ -425,7 +425,7 @@ caption: `${dgxeon + xeontext1}`,
             }
         }
         
-        //fake reply with channel link embedded
+        // 
 async function replygcxeon2(txt) {
 const xeonnewrep = {      
 contextInfo: {
