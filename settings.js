@@ -1,24 +1,16 @@
-//base by DGXeon
-//re-upload? recode? copy code? give credit ya :)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@W00lf_12
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //owmner v card
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.ytname = "YT: ??" //ur yt chanel name
+global.socialm = "GitHub: Prince_luck" //ur github or insta name
 global.location = "Nigeria, Lagos, Lagos" //ur location
 
 //new
 global.botname = 'WOLD Bot MD V1' //ur bot name
 global.ownernumber = '2347045305132' //ur owner number
-global.ownername = '🦄 WOLF' //ur owner name
+global.ownername = 'wolf' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G"
 global.wagc = "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G"
 global.themeemoji = '🪀'
