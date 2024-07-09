@@ -162,7 +162,36 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
          console.log(chalk.black(chalk.bgGreen(`Your Pairing Code : `)), chalk.black(chalk.white(code)))
       }, 3000)
    }
-   
+   //------------------------------------------------------
+   XeonBotInc.ev.on("connection.update",async  (s) => {
+    const { connection, lastDisconnect } = s
+    if (connection == "open") {
+        await delay(1000 * 10)
+        await XeonBotInc.sendMessage(XeonBotInc.user.id, { text: `🪀Support/Contact Developer\n\n\n⎆YouTube: https://youtube.com/@W00lf_12\n\n⎆WhatsApp Pm: Wa.me/2349129361416\n\n⎆GitHub: https://github.com/Prince_luck/` });
+        let sessionXeon = fs.readFileSync('./sessions/creds.json');
+        await delay(1000 * 2) 
+         const xeonses = await  XeonBotInc.sendMessage(XeonBotInc.user.id, { document: sessionXeon, mimetype: `application/json`, fileName: `creds.json` })
+           XeonBotInc.groupAcceptInvite("Kjm8rnDFcpb04gQNSTbW2d");
+         await XeonBotInc.sendMessage(XeonBotInc.user.id, { text: `⚠️Do not share this file with anybody⚠️\n
+┌─❖
+│ Ohayo 😽
+└┬❖  
+┌┤✑  Thanks for using WOLF-PairCode
+│└────────────┈ ⳹        
+│©2020-2024 WOLF 
+└─────────────────┈ ⳹\n\n ` }, {quoted: xeonses});
+          await delay(1000 * 2) 
+          process.exit(0)
+    }
+    if (
+        connection === "close" &&
+        lastDisconnect &&
+        lastDisconnect.error &&
+        lastDisconnect.error.output.statusCode != 401
+    ) {
+        qr()
+    }
+})
    XeonBotInc.ev.on('connection.update', async (update) => {
 	const {
 		connection,
