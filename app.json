@@ -1,7 +1,7 @@
 {
-  "name": "CheemsBot-MD",
+  "name": "WOLF-MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Prince-luck/CheemsBot-MD11",
+  "repository": "https://github.com/Prince-luck/WOLF",
   "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
