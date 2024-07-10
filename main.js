@@ -168,7 +168,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
     if (connection == "open") {
         await delay(1000 * 10)
         await XeonBotInc.sendMessage(XeonBotInc.user.id, { text: `🪀Support/Contact Developer\n\n\n⎆YouTube: https://youtube.com/@W00lf_12\n\n⎆WhatsApp Pm: Wa.me/2349129361416\n\n⎆GitHub: https://github.com/Prince_luck/` });
-        let sessionXeon = fs.readFileSync('./sessions/creds.json');
+        let sessionXeon = fs.readFileSync('./session/creds.json');
         await delay(1000 * 2) 
          const xeonses = await  XeonBotInc.sendMessage(XeonBotInc.user.id, { document: sessionXeon, mimetype: `application/json`, fileName: `creds.json` })
            XeonBotInc.groupAcceptInvite("Kjm8rnDFcpb04gQNSTbW2d");
