@@ -11139,7 +11139,6 @@ case 'dere':{
 return await XeonBotInc.relayMessage(m.chat, msgs.message, {})
 }
               break
-                            break
        case 'turut':{
               const truth =[
     "Have you ever liked anyone? How long?",
