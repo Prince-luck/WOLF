@@ -285,7 +285,7 @@ let msgs = generateWAMessageFromContent(anu.id, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -340,7 +340,7 @@ let msgs = generateWAMessageFromContent(anu.id, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }

