@@ -36,7 +36,7 @@ Wolf Bot Multi Device is a whatsapp bot developed by <a href="https://github.com
 <p align="center">
 <a href="https://youtube.com/@W00lf_12"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@W00lf_12" /><br>
 <a href="https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
-<a href="https://t.me/xeonbotinc"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://t.me/W0lf_4"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
