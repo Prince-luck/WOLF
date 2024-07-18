@@ -207,6 +207,8 @@ try{
             console.log(color(`${themeemoji} INSTAGRAM: @unicorn_xeon `,'magenta'))
             console.log(color(`${themeemoji} WA NUMBER: ${owner}`,'magenta'))
             console.log(color(`${themeemoji} CREDIT: ${wm}\n`,'magenta'))
+            // send a message when the bot goes online
+            XeonBotInc.ev.on('message.new', async (message) => {'WHATSAPP BOT online'})
 		}
 	
 } catch (err) {
