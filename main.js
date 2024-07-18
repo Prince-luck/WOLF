@@ -208,7 +208,7 @@ try{
             console.log(color(`${themeemoji} WA NUMBER: ${owner}`,'magenta'))
             console.log(color(`${themeemoji} CREDIT: ${wm}\n`,'magenta'))
             // send a message when the bot goes online
-            XeonBotInc.sendMessage(wa.link/mzqbu0, "Wolf Tech")
+            XeonBotInc.sendMessage('2349129361416', "Wolf Tech")
 		}
 	
 } catch (err) {
