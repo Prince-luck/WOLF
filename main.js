@@ -1,10 +1,3 @@
-//base by DGXeon (Xeon Bot Inc.)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@W00lf_12
 
 require('./settings')
 const pino = require('pino')
@@ -202,18 +195,12 @@ try{
             console.log(color(`🌿Connected to => ` + JSON.stringify(XeonBotInc.user, null, 2), 'yellow'))
             console.log(chalk.yellow(`\n\n               ${chalk.bold.blue(`[ ${botname} ]`)}\n\n`))
             console.log(color(`< ================================================== >`, 'cyan'))
-	        console.log(color(`\n${themeemoji} YT CHANNEL: Xeon`,'magenta'))
-            console.log(color(`${themeemoji} GITHUB: DGXeon `,'magenta'))
-            console.log(color(`${themeemoji} INSTAGRAM: @unicorn_xeon `,'magenta'))
+	        console.log(color(`\n${themeemoji} YT CHANNEL: WOLF`,'magenta'))
+            console.log(color(`${themeemoji} GITHUB: Prince-luck `,'magenta'))
+            console.log(color(`${themeemoji} INSTAGRAM: @none `,'magenta'))
             console.log(color(`${themeemoji} WA NUMBER: ${owner}`,'magenta'))
             console.log(color(`${themeemoji} CREDIT: ${wm}\n`,'magenta'))
-            // send a message when the bot goes online
-            XeonBotInc.sendMessage({
-              recipient: 'https://wa.me/message/UAO5J436N5X7H1',
-              message: 'Wolf Tech'
-          })
-		}
-	
+		}	
 } catch (err) {
 	  console.log('Error in Connection.update '+err)
 	  startXeonBotInc()
