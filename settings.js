@@ -8,7 +8,7 @@ global.socialm = "GitHub: Prince_luck" //ur github or insta name
 global.location = "Nigeria, Lagos, Lagos" //ur location
 
 //new
-global.botname = 'WOLD Bot MD V1' //ur bot name
+global.botname = 'Wolf MD V1' //ur bot name
 global.ownernumber = '2347045305132' //ur owner number
 global.ownername = 'wolf' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029Vacs3IIIiRp0FeDDcJ1G"
@@ -28,7 +28,7 @@ global.typemenu = 'v12' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
+global.welcome = true //welcome/left in groups
 global.anticall = false //bot blocks user when called
 global.autoswview = false //auto status/story view
 global.adminevent = false //show promote/demote message
