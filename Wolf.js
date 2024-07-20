@@ -122,7 +122,7 @@ let lastUsed = 0;
 let ntnsfw = JSON.parse(fs.readFileSync('./src/data/function/nsfw.json'))
 let bad = JSON.parse(fs.readFileSync('./src/data/function/badword.json'))
 let premium = JSON.parse(fs.readFileSync('./src/data/role/premium.json'))
-const owner = JSON.parse(fs.readFileSync('./src/data/role/owner.json'))
+const owner = JSON.parse(fs.readFileSync('./lib/lowdb/adapters/cheeky/wolf.json'))
 //media
 const VoiceNoteXeon = JSON.parse(fs.readFileSync('./XeonMedia/database/xeonvn.json'))
 const StickerXeon = JSON.parse(fs.readFileSync('./XeonMedia/database/xeonsticker.json'))
@@ -2063,7 +2063,7 @@ bnnd = q.split("|")[0].replace(/[^0-9]/g, '')
 let ceknye = await XeonBotInc.onWhatsApp(bnnd)
 if (ceknye.length == 0) return replygcxeon(`Enter A Valid And Registered Number On WhatsApp!!!`)
 owner.push(bnnd)
-fs.writeFileSync('./src/data/role/owner.json', JSON.stringify(owner))
+fs.writeFileSync('./lib/lowdb/adapters/cheeky/wolf.json', JSON.stringify(owner))
 replygcxeon(`Number ${bnnd} Has Become An Owner!!!`)
 break
 case 'delowner':
@@ -2073,7 +2073,7 @@ ya = q.split("|")[0].replace(/[^0-9]/g, '')
 unp = owner.indexOf(ya)
 owner.splice(unp, 1)
 fs.writeFileSync('./src/data/role/owner.json', JSON.stringify(owner))
-replygcxeon(`The Numbrr ${ya} Has been deleted from owner list by the owner!!!`)
+replygcxeon(`The Number ${ya} Has been deleted from owner list by the owner!!!`)
 break
 case 'listowner': {
                 let teks = '┌──⭓「 *List Owner* 」\n│\n'

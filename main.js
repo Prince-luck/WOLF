@@ -63,7 +63,7 @@ require('./main.js')
 nocache('../main.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
 
 let phoneNumber = "916909137213"
-let owner = JSON.parse(fs.readFileSync('./src/data/role/owner.json'))
+let owner = JSON.parse(fs.readFileSync('./lib/lowdb/adapters/cheeky/wolf.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
 const useMobile = process.argv.includes("--mobile")
